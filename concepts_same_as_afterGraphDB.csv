@@ -1,0 +1,59 @@
+cui,en,en_id
+C1423633,TLR9,en_135
+C0001047,Acetylcysteine,en_219
+C0001962,Ethanol,en_271
+C0004057,Aspirin,en_414
+C0005767,Blood,en_482
+C0006906,Capillary Permeability,en_551
+C0010592,Cyclosporine,en_740
+C0012582,Dipyridamole,en_823
+C0014520,Epidermis,en_916
+C0019134,Heparin,en_1166
+C0020336,Hydroxychloroquine,en_1226
+C0020962,Immune system,en_1271
+C0025815,Methylprednisolone,en_1559
+C0029235,Organism,en_1717
+C0032857,Povidone-Iodine,en_1864
+C0034997,Rehydration,en_1990
+C0040018,Thrombin,en_2228
+C0042395,Vasoactive Intestinal Peptide,en_2339
+C0063700,Interferon Regulatory Factor 1,en_2508
+C0108768,CD14 Antigen,en_2758
+C0111318,Curosurf,en_2761
+C0162337,Vascular Permeability,en_2906
+C0216231,sargramostim,en_3191
+C0216784,valsartan,en_3193
+C0221923,Stratum granulosum,en_3231
+C0232374,Increased blood vessel permeability,en_3278
+C0439663,Infected,en_4036
+C0439861,Substance,en_4040
+C0587279,Methylprednisolone pulse therapy,en_4362
+C0699251,Fluimucil,en_4700
+C0699605,Neoral,en_4701
+C0701500,Leukine,en_4732
+C0723739,Thrombogen,en_4749
+C0732282,Aggrenox,en_4771
+C0762640,thymic stromal lymphopoietin,en_4865
+C0771648,Poractant alfa,en_4873
+C0907850,ciclesonide,en_5095
+C0948008,Ischemic stroke,en_5158
+C0963057,Toll-like receptor 9,en_5199
+C1148561,anticoagulant activity,en_5297
+C1174745,Alvesco,en_5380
+C1333258,DUSP3 gene,en_5589
+C1333317,Dual Specificity Phosphatase 3,en_5590
+C1336681,TSLP gene,en_5638
+C1366516,IRF1 gene,en_5659
+C1366646,VIP gene,en_5668
+C1367477,CD14 gene,en_5672
+C1518997,Peripheral Blood Lymphocyte,en_5878
+C1609165,tocilizumab,en_6003
+C2733531,Low molecular weight heparin therapy,en_6131
+C2917212,Negative Regulation of Coagulation,en_6142
+C3152857,Prevail,en_6174
+C4033616,Entresto,en_6297
+C4085194,Conventional Dendritic Cell,en_6318
+C4330475,Immune Cell,en_6345
+C4510396,Tocilizumab therapy,en_6356
+C5190549,Hydroxychloroquine therapy,en_6409
+C5392833,Acute Ischemic Stroke,en_6450

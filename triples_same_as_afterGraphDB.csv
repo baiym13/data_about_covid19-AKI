@@ -1,0 +1,81 @@
+subject_en,subject_cui,start_id,predicate_en,object_en,object_cui,end_id,source,influence_relation
+Fluimucil,C0699251,en_4700,same_as,Acetylcysteine,C0001047,en_219,UMLS,Axiom
+Immune Cell,C4330475,en_6345,same_as,Immune system,C0020962,en_1271,UMLS,Axiom
+Conventional Dendritic Cell,C4085194,en_6318,same_as,Immune system,C0020962,en_1271,UMLS,Axiom
+Peripheral Blood Lymphocyte,C1518997,en_5878,same_as,Immune system,C0020962,en_1271,UMLS,Axiom
+Peripheral Blood Lymphocyte,C1518997,en_5878,same_as,Blood,C0005767,en_482,UMLS,Axiom
+Prevail,C3152857,en_6174,same_as,Ethanol,C0001962,en_271,UMLS,Axiom
+Prevail,C3152857,en_6174,same_as,Povidone-Iodine,C0032857,en_1864,UMLS,Axiom
+Low molecular weight heparin therapy,C2733531,en_6131,same_as,Heparin,C0019134,en_1166,UMLS,Axiom
+TLR9,C1423633,en_135,same_as,Toll-like receptor 9,C0963057,en_5199,UMLS,Axiom
+Aggrenox,C0732282,en_4771,same_as,Aspirin,C0004057,en_414,UMLS,Axiom
+Aggrenox,C0732282,en_4771,same_as,Dipyridamole,C0012582,en_823,UMLS,Axiom
+Infected,C0439663,en_4036,same_as,Organism,C0029235,en_1717,UMLS,Axiom
+TSLP gene,C1336681,en_5638,same_as,thymic stromal lymphopoietin,C0762640,en_4865,UMLS,Axiom
+Hydroxychloroquine therapy,C5190549,en_6409,same_as,Hydroxychloroquine,C0020336,en_1226,UMLS,Axiom
+Thrombogen,C0723739,en_4749,same_as,Thrombin,C0040018,en_2228,UMLS,Axiom
+Neoral,C0699605,en_4701,same_as,Cyclosporine,C0010592,en_740,UMLS,Axiom
+Acute Ischemic Stroke,C5392833,en_6450,same_as,Ischemic stroke,C0948008,en_5158,UMLS,Axiom
+Stratum granulosum,C0221923,en_3231,same_as,Epidermis,C0014520,en_916,UMLS,Axiom
+CD14 gene,C1367477,en_5672,same_as,CD14 Antigen,C0108768,en_2758,UMLS,Axiom
+anticoagulant activity,C1148561,en_5297,same_as,Negative Regulation of Coagulation,C2917212,en_6142,UMLS,Axiom
+Methylprednisolone pulse therapy,C0587279,en_4362,same_as,Methylprednisolone,C0025815,en_1559,UMLS,Axiom
+Rehydration,C0034997,en_1990,same_as,Substance,C0439861,en_4040,UMLS,Axiom
+IRF1 gene,C1366516,en_5659,same_as,Interferon Regulatory Factor 1,C0063700,en_2508,UMLS,Axiom
+VIP gene,C1366646,en_5668,same_as,Vasoactive Intestinal Peptide,C0042395,en_2339,UMLS,Axiom
+Tocilizumab therapy,C4510396,en_6356,same_as,tocilizumab,C1609165,en_6003,UMLS,Axiom
+Curosurf,C0111318,en_2761,same_as,Poractant alfa,C0771648,en_4873,UMLS,Axiom
+Leukine,C0701500,en_4732,same_as,sargramostim,C0216231,en_3191,UMLS,Axiom
+Entresto,C4033616,en_6297,same_as,valsartan,C0216784,en_3193,UMLS,Axiom
+Alvesco,C1174745,en_5380,same_as,ciclesonide,C0907850,en_5095,UMLS,Axiom
+DUSP3 gene,C1333258,en_5589,same_as,Dual Specificity Phosphatase 3,C1333317,en_5590,UMLS,Axiom
+Vascular Permeability,C0162337,en_2906,same_as,Increased blood vessel permeability,C0232374,en_3278,UMLS,Axiom
+Acetylcysteine,C0001047,en_219,same_as,Fluimucil,C0699251,en_4700,UMLS,infered
+Conventional Dendritic Cell,C4085194,en_6318,same_as,Immune Cell,C4330475,en_6345,UMLS,infered
+Immune system,C0020962,en_1271,same_as,Immune Cell,C4330475,en_6345,UMLS,infered
+Peripheral Blood Lymphocyte,C1518997,en_5878,same_as,Immune Cell,C4330475,en_6345,UMLS,infered
+Blood,C0005767,en_482,same_as,Immune Cell,C4330475,en_6345,UMLS,infered
+Immune Cell,C4330475,en_6345,same_as,Conventional Dendritic Cell,C4085194,en_6318,UMLS,infered
+Immune system,C0020962,en_1271,same_as,Conventional Dendritic Cell,C4085194,en_6318,UMLS,infered
+Peripheral Blood Lymphocyte,C1518997,en_5878,same_as,Conventional Dendritic Cell,C4085194,en_6318,UMLS,infered
+Blood,C0005767,en_482,same_as,Conventional Dendritic Cell,C4085194,en_6318,UMLS,infered
+Blood,C0005767,en_482,same_as,Immune system,C0020962,en_1271,UMLS,infered
+Immune Cell,C4330475,en_6345,same_as,Peripheral Blood Lymphocyte,C1518997,en_5878,UMLS,infered
+Conventional Dendritic Cell,C4085194,en_6318,same_as,Peripheral Blood Lymphocyte,C1518997,en_5878,UMLS,infered
+Immune system,C0020962,en_1271,same_as,Peripheral Blood Lymphocyte,C1518997,en_5878,UMLS,infered
+Blood,C0005767,en_482,same_as,Peripheral Blood Lymphocyte,C1518997,en_5878,UMLS,infered
+Immune Cell,C4330475,en_6345,same_as,Blood,C0005767,en_482,UMLS,infered
+Conventional Dendritic Cell,C4085194,en_6318,same_as,Blood,C0005767,en_482,UMLS,infered
+Immune system,C0020962,en_1271,same_as,Blood,C0005767,en_482,UMLS,infered
+Povidone-Iodine,C0032857,en_1864,same_as,Ethanol,C0001962,en_271,UMLS,infered
+Ethanol,C0001962,en_271,same_as,Povidone-Iodine,C0032857,en_1864,UMLS,infered
+Ethanol,C0001962,en_271,same_as,Prevail,C3152857,en_6174,UMLS,infered
+Povidone-Iodine,C0032857,en_1864,same_as,Prevail,C3152857,en_6174,UMLS,infered
+Capillary Permeability,C0006906,en_551,same_as,Vascular Permeability,C0162337,en_2906,UMLS,infered
+Vascular Permeability,C0162337,en_2906,same_as,Capillary Permeability,C0006906,en_551,UMLS,infered
+Heparin,C0019134,en_1166,same_as,Low molecular weight heparin therapy,C2733531,en_6131,UMLS,infered
+Toll-like receptor 9,C0963057,en_5199,same_as,TLR9,C1423633,en_135,UMLS,infered
+Dipyridamole,C0012582,en_823,same_as,Aspirin,C0004057,en_414,UMLS,infered
+Aspirin,C0004057,en_414,same_as,Dipyridamole,C0012582,en_823,UMLS,infered
+Aspirin,C0004057,en_414,same_as,Aggrenox,C0732282,en_4771,UMLS,infered
+Dipyridamole,C0012582,en_823,same_as,Aggrenox,C0732282,en_4771,UMLS,infered
+Organism,C0029235,en_1717,same_as,Infected,C0439663,en_4036,UMLS,infered
+thymic stromal lymphopoietin,C0762640,en_4865,same_as,TSLP gene,C1336681,en_5638,UMLS,infered
+Hydroxychloroquine,C0020336,en_1226,same_as,Hydroxychloroquine therapy,C5190549,en_6409,UMLS,infered
+Thrombin,C0040018,en_2228,same_as,Thrombogen,C0723739,en_4749,UMLS,infered
+Cyclosporine,C0010592,en_740,same_as,Neoral,C0699605,en_4701,UMLS,infered
+Ischemic stroke,C0948008,en_5158,same_as,Acute Ischemic Stroke,C5392833,en_6450,UMLS,infered
+Epidermis,C0014520,en_916,same_as,Stratum granulosum,C0221923,en_3231,UMLS,infered
+CD14 Antigen,C0108768,en_2758,same_as,CD14 gene,C1367477,en_5672,UMLS,infered
+Negative Regulation of Coagulation,C2917212,en_6142,same_as,anticoagulant activity,C1148561,en_5297,UMLS,infered
+Methylprednisolone,C0025815,en_1559,same_as,Methylprednisolone pulse therapy,C0587279,en_4362,UMLS,infered
+Substance,C0439861,en_4040,same_as,Rehydration,C0034997,en_1990,UMLS,infered
+Interferon Regulatory Factor 1,C0063700,en_2508,same_as,IRF1 gene,C1366516,en_5659,UMLS,infered
+Vasoactive Intestinal Peptide,C0042395,en_2339,same_as,VIP gene,C1366646,en_5668,UMLS,infered
+tocilizumab,C1609165,en_6003,same_as,Tocilizumab therapy,C4510396,en_6356,UMLS,infered
+Poractant alfa,C0771648,en_4873,same_as,Curosurf,C0111318,en_2761,UMLS,infered
+sargramostim,C0216231,en_3191,same_as,Leukine,C0701500,en_4732,UMLS,infered
+valsartan,C0216784,en_3193,same_as,Entresto,C4033616,en_6297,UMLS,infered
+ciclesonide,C0907850,en_5095,same_as,Alvesco,C1174745,en_5380,UMLS,infered
+Dual Specificity Phosphatase 3,C1333317,en_5590,same_as,DUSP3 gene,C1333258,en_5589,UMLS,infered
+Capillary Permeability,C0006906,en_551,same_as,Increased blood vessel permeability,C0232374,en_3278,UMLS,infered

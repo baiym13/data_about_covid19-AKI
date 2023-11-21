@@ -1,0 +1,379 @@
+subject_en,subject_cui,start_id,predicate_en,object_en,object_cui,end_id,source,influence_relation
+acute inflammatory response,C1817978,en_6041,isa,Inflammatory Response,C1155266,en_5321,UMLS,Axiom
+Acute respiratory distress syndrome due to disease caused by Severe acute respiratory syndrome coronavirus 2,C5397144,en_6452,isa,Respiratory complication,C0161818,en_2899,UMLS,Axiom
+Armed macrophage,C0001280,en_228,isa,macrophage,C0024432,en_1484,UMLS,Axiom
+Neutrophil chemotaxis,C0312861,en_3738,isa,Chemotaxis,C0008018,en_615,UMLS,Axiom
+Well adult,C0686750,en_4683,isa,Fit and well,C0424576,en_3995,UMLS,Axiom
+pulmonary complications,C0281169,en_3627,isa,Complication,C0009566,en_697,UMLS,Axiom
+pulmonary complications,C0281169,en_3627,isa,Lung,C0024109,en_1460,UMLS,Axiom
+cohort,C0599755,en_4470,isa,Population Group,C1257890,en_5403,UMLS,Axiom
+PULMONARY PROCESS,C0748169,en_4830,isa,Lung,C0024109,en_1460,UMLS,Axiom
+Eating habit,C1266864,en_5434,isa,Life Style,C0023676,en_1432,UMLS,Axiom
+General Population,C0683971,en_4674,isa,Population Group,C1257890,en_5403,UMLS,Axiom
+Severe asthma,C0581126,en_4345,isa,Asthma,C0004096,en_418,UMLS,Axiom
+Severe asthma,C0581126,en_4345,isa,Status Asthmaticus,C0038218,en_2156,UMLS,Axiom
+Streptococcal lymphadenitis of swine,C0275814,en_3571,isa,INFECTIOUS PROCESS,C0745283,en_4812,UMLS,Axiom
+Vascular Permeability,C0162337,en_2906,isa,Vascular function,C0232337,en_3275,UMLS,Axiom
+Animal Viruses,C0003060,en_334,isa,Virus,C0042776,en_2364,UMLS,Axiom
+influenza A virus nucleoprotein,C0063529,en_2506,isa,Nucleocapsid Proteins,C0524816,en_4219,UMLS,Axiom
+Neonatal calf diarrhea,C0276467,en_3578,isa,Diarrheal disorder,C1290807,en_5481,UMLS,Axiom
+"Passive immunity, function",C0678210,en_4555,isa,Immunologic function,C1268930,en_5445,UMLS,Axiom
+human leukocyte interferon,C0733470,en_4772,isa,cytokine,C0079189,en_2593,UMLS,Axiom
+human leukocyte interferon,C0733470,en_4772,isa,Pharmacologic Substance,C1254351,en_5395,UMLS,Axiom
+anticoagulation,C0003281,en_355,isa,Supportive care,C0344211,en_3836,UMLS,Axiom
+PULMONARY INVOLVEMENT,C0748159,en_4828,isa,Lung,C0024109,en_1460,UMLS,Axiom
+Toddler,C0682053,en_4633,isa,Child,C0008059,en_620,UMLS,Axiom
+smooth muscle contraction,C1155937,en_5325,isa,Muscle Contraction,C0026820,en_1601,UMLS,Axiom
+Youth,C0087178,en_2748,isa,Adolescent,C0205653,en_3132,UMLS,Axiom
+25-hydroxyvitamin D,C0535968,en_4242,isa,Vitamin D,C0042866,en_2371,UMLS,Axiom
+Chronically Ill,C0008715,en_644,isa,Chronic Disease,C0008679,en_643,UMLS,Axiom
+Target Population,C0039309,en_2207,isa,Population Group,C1257890,en_5403,UMLS,Axiom
+Thrombogen,C0723739,en_4749,isa,Thrombin,C0040018,en_2228,UMLS,Axiom
+TMEM173,C4077403,en_6488,isa,Membrane Proteins,C0025252,en_1530,UMLS,Axiom
+malignant neoplasm of breast staging,C2216702,en_6091,isa,Malignant neoplasm of breast,C0006142,en_511,UMLS,Axiom
+Pulmonary Pathology,C0748168,en_4829,isa,Lung,C0024109,en_1460,UMLS,Axiom
+Acute abdominal pain,C0740577,en_4779,isa,Abdominal Pain,C0000737,en_6493,UMLS,Axiom
+CANADIAN,C0238884,en_3371,isa,Ethnic group,C0015031,en_934,UMLS,Axiom
+Antiinflammatory Effect,C1516019,en_5851,isa,Inflammatory Response,C1155266,en_5321,UMLS,Axiom
+"Drugs, Orphan",C0013232,en_859,isa,Agent,C0450442,en_4084,UMLS,Axiom
+Dutch Population,C0013331,en_862,isa,Ethnic group,C0015031,en_934,UMLS,Axiom
+carbapenemase,C0246081,en_3478,isa,Bacterial Proteins,C0004627,en_443,UMLS,Axiom
+fibrinmonomer,C0060327,en_2485,isa,Fibrin,C0015982,en_987,UMLS,Axiom
+Chemically-Induced Menopause,C4727713,en_6389,isa,Menopause,C0025320,en_1538,UMLS,Axiom
+Storm Syndrome,C1861452,en_6056,isa,Calcinosis,C0006663,en_535,UMLS,Axiom
+type 2 immune response,C3159116,en_6176,isa,Immune response,C0301872,en_3696,UMLS,Axiom
+Factor IIa,C0060008,en_2482,isa,Prothrombin,C0033706,en_1914,UMLS,Axiom
+Age Cohort,C2348001,en_6097,isa,cohort,C0599755,en_4470,UMLS,Axiom
+"PTH protein, human",C0020063,en_1209,isa,peptide hormone,C0597192,en_4415,UMLS,Axiom
+Clinical infection,C0275521,en_3564,isa,INFECTIOUS PROCESS,C0745283,en_4812,UMLS,Axiom
+Italians,C0337810,en_3799,isa,Ethnic group,C0015031,en_934,UMLS,Axiom
+Mild asthma,C0581124,en_4343,isa,Asthma,C0004096,en_418,UMLS,Axiom
+Reduction (chemical),C0301630,en_3691,isa,Biochemical Reaction,C1511131,en_5807,UMLS,Axiom
+"Radiation, Charged Particles",C1516444,en_5857,isa,Ionizing radiation,C0034538,en_1954,UMLS,Axiom
+post operative (finding),C0241311,en_3389,isa,Postoperative Complications,C0032787,en_1858,UMLS,Axiom
+Nuclear Import,C0887839,en_5087,isa,nucleocytoplasmic transport,C0872070,en_5034,UMLS,Axiom
+nicotinamide-beta-riboside,C0068711,en_2532,isa,Pharmacologic Substance,C1254351,en_5395,UMLS,Axiom
+nicotinamide-beta-riboside,C0068711,en_2532,isa,Niacinamide,C0028027,en_1680,UMLS,Axiom
+Severe pain,C0278140,en_3598,isa,Pain,C0030193,en_1741,UMLS,Axiom
+Drug Exposure,C0743284,en_4801,isa,Chemical Exposure,C0678803,en_4570,UMLS,Axiom
+angiogenin,C0051844,en_2430,isa,cytokine,C0079189,en_2593,UMLS,Axiom
+humoral immune response,C1155229,en_5318,isa,Immune response,C0301872,en_3696,UMLS,Axiom
+Secondary bacterial pneumonia,C0339952,en_3811,isa,INFECTIOUS PROCESS,C0745283,en_4812,UMLS,Axiom
+Secondary bacterial pneumonia,C0339952,en_3811,isa,Respiratory complication,C0161818,en_2899,UMLS,Axiom
+School child,C0260267,en_3511,isa,student,C0038492,en_2171,UMLS,Axiom
+Prenatal Testing,C1456692,en_5778,isa,Prenatal Diagnosis,C0033053,en_1879,UMLS,Axiom
+paramylon,C0070074,en_2538,isa,Glucans,C0017696,en_1067,UMLS,Axiom
+Protein Import,C1326471,en_5556,isa,protein transport,C0599895,en_4483,UMLS,Axiom
+Struck,C0275626,en_3570,isa,INFECTIOUS PROCESS,C0745283,en_4812,UMLS,Axiom
+Advance,C0725066,en_4752,isa,Diagnostic tests,C0086143,en_2703,UMLS,Axiom
+Population at Risk,C0242444,en_3415,isa,Population Group,C1257890,en_5403,UMLS,Axiom
+Severe depression,C0588008,en_4364,isa,Depressive disorder,C0011581,en_788,UMLS,Axiom
+interleukin-22,C0961814,en_5197,isa,Interleukins,C0021764,en_1345,UMLS,Axiom
+Collagenolysis,C0333471,en_3766,isa,Lysis,C0024348,en_1476,UMLS,Axiom
+Longterm Follow-up,C1517942,en_5871,isa,follow-up,C1522577,en_5904,UMLS,Axiom
+Severe diarrhea,C1443924,en_5740,isa,Diarrhea,C0011991,en_810,UMLS,Axiom
+Well adolescent,C0686747,en_4682,isa,Fit and well,C0424576,en_3995,UMLS,Axiom
+Transgenic Model,C1519606,en_5888,isa,Animal Model,C0599779,en_4473,UMLS,Axiom
+Teens,C1521910,en_5899,isa,Adolescent,C0205653,en_3132,UMLS,Axiom
+Infectious canine tracheobronchitis,C0276170,en_3575,isa,INFECTIOUS PROCESS,C0745283,en_4812,UMLS,Axiom
+Infectious canine tracheobronchitis,C0276170,en_3575,isa,Lower respiratory tract infection,C0149725,en_2806,UMLS,Axiom
+1-(1-(2-thienyl)cyclohexyl)piperidine,C0044091,en_2411,isa,Neuroprotective Agents,C0242912,en_3443,UMLS,Axiom
+4-aminoquinoline,C0048060,en_2420,isa,Antimalarials,C0003374,en_369,UMLS,Axiom
+doxifluridine,C0048808,en_6561,isa,Pharmacologic Substance,C1254351,en_5395,UMLS,Axiom
+doxifluridine,C0048808,en_6561,isa,Immunosuppressive Agents,C0021081,en_1289,UMLS,Axiom
+boswellic acid,C0053959,en_2444,isa,"Anti-Inflammatory Agents, Non-Steroidal",C0003211,en_343,UMLS,Axiom
+Acute bacterial sinusitis,C0275556,en_3569,isa,INFECTIOUS PROCESS,C0745283,en_4812,UMLS,Axiom
+Acute bacterial sinusitis,C0275556,en_3569,isa,Acute upper respiratory infection,C0264222,en_3530,UMLS,Axiom
+iproplatin,C0057856,en_2469,isa,Antineoplastic Agents,C0003392,en_371,UMLS,Axiom
+iproplatin,C0057856,en_2469,isa,Pharmacologic Substance,C1254351,en_5395,UMLS,Axiom
+ebselen,C0058903,en_2476,isa,"Anti-Inflammatory Agents, Non-Steroidal",C0003211,en_343,UMLS,Axiom
+ebselen,C0058903,en_2476,isa,Antioxidants,C0003402,en_372,UMLS,Axiom
+ebselen,C0058903,en_2476,isa,Neuroprotective Agents,C0242912,en_3443,UMLS,Axiom
+"enkephalin-Leu, Ala(2)-Arg(6)-",C0059306,en_2479,isa,Analgesics,C0002771,en_312,UMLS,Axiom
+"enkephalin-Leu, Ala(2)-Arg(6)-",C0059306,en_2479,isa,"Anti-Inflammatory Agents, Non-Steroidal",C0003211,en_343,UMLS,Axiom
+"enkephalin-Leu, Ala(2)-Arg(6)-",C0059306,en_2479,isa,Antioxidants,C0003402,en_372,UMLS,Axiom
+"enkephalin-Leu, Ala(2)-Arg(6)-",C0059306,en_2479,isa,Sympatholytics,C0039051,en_2195,UMLS,Axiom
+"enterotoxin B, staphylococcal",C0059386,en_2480,isa,Pharmacologic Substance,C1254351,en_5395,UMLS,Axiom
+Progressive Neoplastic Disease,C0677932,en_6664,isa,Progressive Disease,C1335499,en_6711,UMLS,Axiom
+"TXN protein, human",C1504637,en_5790,isa,Oxidoreductase,C0030016,en_6539,UMLS,Axiom
+glucuronyl glucosamine glycan sulfate,C0061450,en_2493,isa,Anticoagulants,C0003280,en_354,UMLS,Axiom
+glucuronyl glucosamine glycan sulfate,C0061450,en_2493,isa,Fibrinolytic Agents,C0016018,en_991,UMLS,Axiom
+glucuronyl glucosamine glycan sulfate,C0061450,en_2493,isa,Hypoglycemic Agents,C0020616,en_1246,UMLS,Axiom
+Tissue neutrophil,C0229611,en_3243,isa,neutrophil,C0027950,en_1676,UMLS,Axiom
+Listerine,C0065081,en_2516,isa,"Anti-Infective Agents, Local",C0003205,en_341,UMLS,Axiom
+Listerine,C0065081,en_2516,isa,Drug Combinations,C0013162,en_852,UMLS,Axiom
+zaprinast,C0065432,en_2519,isa,Phosphodiesterase Inhibitors,C0031638,en_1795,UMLS,Axiom
+"nucleoprotein, Measles virus",C0065827,en_2522,isa,Nucleocapsid Proteins,C0524816,en_4219,UMLS,Axiom
+monoferrous acid citrate,C0066752,en_2526,isa,Trace Elements,C0040577,en_2254,UMLS,Axiom
+piperaquine,C0071105,en_2544,isa,Antimalarials,C0003374,en_369,UMLS,Axiom
+protoporphyrin IX,C0072497,en_2552,isa,Photosensitizing Agents,C0162713,en_2928,UMLS,Axiom
+pyronaridine,C0072768,en_2553,isa,Antimalarials,C0003374,en_369,UMLS,Axiom
+RNA primers,C0073429,en_2564,isa,RNA,C0035668,en_2040,UMLS,Axiom
+bucillamine,C0073917,en_2566,isa,"Anti-Inflammatory Agents, Non-Steroidal",C0003211,en_343,UMLS,Axiom
+bucillamine,C0073917,en_2566,isa,Antioxidants,C0003402,en_372,UMLS,Axiom
+bucillamine,C0073917,en_2566,isa,Cysteine,C0010654,en_742,UMLS,Axiom
+Salazopyrine,C0073966,en_2567,isa,Drug Combinations,C0013162,en_852,UMLS,Axiom
+tetrandrine,C0076316,en_2575,isa,Antimalarials,C0003374,en_369,UMLS,Axiom
+tetrandrine,C0076316,en_2575,isa,Antiviral Agents,C0003451,en_379,UMLS,Axiom
+tetrandrine,C0076316,en_2575,isa,Calcium Channel Blockers,C0006684,en_539,UMLS,Axiom
+tetrandrine,C0076316,en_2575,isa,Immunosuppressive Agents,C0021081,en_1289,UMLS,Axiom
+tetraphenylporphine,C0076327,en_2576,isa,Porphyrins,C0032712,en_1853,UMLS,Axiom
+VBM protocol,C0078140,en_2587,isa,Bleomycin,C0005740,en_481,UMLS,Axiom
+VBM protocol,C0078140,en_2587,isa,Methotrexate,C0025677,en_1556,UMLS,Axiom
+daunorubicin/prednisone/vincristine protocol,C0078144,en_2588,isa,Prednisone,C0032952,en_1871,UMLS,Axiom
+Basic life support,C0085873,en_2696,isa,Life support procedure,C0521300,en_4200,UMLS,Axiom
+camostate-mesilate,C0108225,en_2756,isa,Protease Inhibitor,C0033607,en_1905,UMLS,Axiom
+ibudilast,C0123047,en_2769,isa,Bronchodilator Agents,C0006280,en_519,UMLS,Axiom
+ibudilast,C0123047,en_2769,isa,Phosphodiesterase Inhibitors,C0031638,en_1795,UMLS,Axiom
+ibudilast,C0123047,en_2769,isa,Vasodilator Agents,C0042402,en_2343,UMLS,Axiom
+"N-(2-(4-(2,2-dimethylpropionyloxy)phenylsulfonylamino)benzoyl)aminoacetic acid",C0130137,en_2780,isa,Glycine,C0017890,en_1080,UMLS,Axiom
+"N-(2-(4-(2,2-dimethylpropionyloxy)phenylsulfonylamino)benzoyl)aminoacetic acid",C0130137,en_2780,isa,Protease Inhibitor,C0033607,en_1905,UMLS,Axiom
+"N-(2-(4-(2,2-dimethylpropionyloxy)phenylsulfonylamino)benzoyl)aminoacetic acid",C0130137,en_2780,isa,Serine Proteinase Inhibitors,C0036733,en_2088,UMLS,Axiom
+"auR protein, Staphylococcus aureus",C0143595,en_2791,isa,Bacterial Proteins,C0004627,en_443,UMLS,Axiom
+"TAL1 protein, human",C0378781,en_6632,isa,TRANSCRIPTION FACTOR,C0040648,en_2264,UMLS,Axiom
+Organizing thrombus,C1318539,en_5532,isa,Thrombus,C0087086,en_2743,UMLS,Axiom
+interleukin-1beta-converting enzyme inhibitor,C0168318,en_2956,isa,Viral Proteins,C0042736,en_2357,UMLS,Axiom
+PTX3 protein,C0174234,en_2965,isa,C-reactive protein,C0006560,en_529,UMLS,Axiom
+Oral medication,C0175795,en_2972,isa,"Administration, Oral",C0001563,en_245,UMLS,Axiom
+Acute hypoxemic respiratory failure,C4039867,en_6301,isa,Acute respiratory failure,C0264490,en_3533,UMLS,Axiom
+Surgical Helmet Systems,C0180797,en_3011,isa,Shield,C0183251,en_3042,UMLS,Axiom
+"Filters, Blood",C0180863,en_3014,isa,Filters,C0180860,en_3013,UMLS,Axiom
+Surgical face mask,C0181758,en_3028,isa,Masks,C0024861,en_1501,UMLS,Axiom
+Face Shields,C0183255,en_3043,isa,Shield,C0183251,en_3042,UMLS,Axiom
+Mental health promotion,C0184645,en_3060,isa,Health Promotion,C0018738,en_1124,UMLS,Axiom
+Mental health promotion,C0184645,en_3060,isa,Mental health care,C0184643,en_3059,UMLS,Axiom
+Mental health treatment,C0184647,en_3061,isa,Psychotherapy,C0033968,en_1921,UMLS,Axiom
+Secondary Peritonitis,C1449647,en_5760,isa,Peritonitis,C0031154,en_1778,UMLS,Axiom
+Massive hemorrhage,C0333279,en_3761,isa,Hemorrhage,C0019080,en_1161,UMLS,Axiom
+Auditory rehabilitation,C0200323,en_3104,isa,Rehabilitation therapy,C0034991,en_1989,UMLS,Axiom
+Psychiatric follow-up,C0204511,en_3115,isa,Follow-up visit,C0589121,en_4366,UMLS,Axiom
+"Myocarditis, chronic",C0865681,en_4995,isa,Myocarditis,C0027059,en_1627,UMLS,Axiom
+"Myocarditis, chronic",C0865681,en_4995,isa,Chronic inflammatory disorder,C1290886,en_5485,UMLS,Axiom
+"Myocarditis, chronic",C0865681,en_4995,isa,Chronic heart disease,C1290386,en_6702,UMLS,Axiom
+nafamostat,C0207683,en_3180,isa,"Anti-Inflammatory Agents, Non-Steroidal",C0003211,en_343,UMLS,Axiom
+nafamostat,C0207683,en_3180,isa,Anticoagulants,C0003280,en_354,UMLS,Axiom
+nafamostat,C0207683,en_3180,isa,Protease Inhibitor,C0033607,en_1905,UMLS,Axiom
+nafamostat,C0207683,en_3180,isa,Serine Proteinase Inhibitors,C0036733,en_2088,UMLS,Axiom
+nafamostat,C0207683,en_3180,isa,Trypsin Inhibitors,C0041242,en_6559,UMLS,Axiom
+nafamostat,C0207683,en_3180,isa,Complement Inactivating Agents,C1564892,en_5978,UMLS,Axiom
+secretoneurin,C0216115,en_6596,isa,Neuropeptides,C0027895,en_1673,UMLS,Axiom
+Multiple symptoms,C0231217,en_6602,isa,General body state finding,C0424575,en_3994,UMLS,Axiom
+Multiple somatic complaints,C0233756,en_6607,isa,Multiple symptoms,C0231217,en_6602,UMLS,Axiom
+"ASPERGILLOSIS, INVASIVE",C0238013,en_3360,isa,INFECTIOUS PROCESS,C0745283,en_4812,UMLS,Axiom
+"ASPERGILLOSIS, INVASIVE",C0238013,en_3360,isa,Aspergillosis,C0004030,en_409,UMLS,Axiom
+Cigarette smoke,C0239059,en_3373,isa,Smoke,C0037366,en_2123,UMLS,Axiom
+Headache Severe,C0239889,en_3376,isa,Headache,C0018681,en_1115,UMLS,Axiom
+T-cell differentiation,C1155013,en_5313,isa,lymphocyte differentiation,C1159914,en_5348,UMLS,Axiom
+Formaldehyde dehydrogenase (glutathione),C0243628,en_3472,isa,Oxidoreductase,C0030016,en_6539,UMLS,Axiom
+CARE protocol,C0250336,en_3485,isa,Etoposide,C0015133,en_936,UMLS,Axiom
+CARE protocol,C0250336,en_3485,isa,Methotrexate,C0025677,en_1556,UMLS,Axiom
+arbidol,C0254211,en_3489,isa,Sulfides,C0038739,en_2180,UMLS,Axiom
+proadrenomedullin,C0257634,en_3496,isa,adrenomedullin,C0215825,en_3189,UMLS,Axiom
+Hospital care,C0259945,en_3505,isa,Hospitals,C0019994,en_1207,UMLS,Axiom
+Proteinosis,C0268422,en_3547,isa,Degenerative disorder,C1285162,en_5478,UMLS,Axiom
+Equine influenza,C0276356,en_3577,isa,INFECTIOUS PROCESS,C0745283,en_4812,UMLS,Axiom
+Human immunodeficiency virus I infection,C0276500,en_3579,isa,INFECTIOUS PROCESS,C0745283,en_4812,UMLS,Axiom
+tumor necrosis factor therapy,C0279936,en_3618,isa,Cytokine therapy,C0199974,en_3102,UMLS,Axiom
+brequinar,C0280509,en_3621,isa,Antineoplastic Agents,C0003392,en_371,UMLS,Axiom
+brequinar,C0280509,en_3621,isa,Enzyme Inhibitors,C0014432,en_911,UMLS,Axiom
+brequinar,C0280509,en_3621,isa,Pharmacologic Substance,C1254351,en_5395,UMLS,Axiom
+brequinar,C0280509,en_3621,isa,Immunosuppressive Agents,C0021081,en_1289,UMLS,Axiom
+brequinar,C0280509,en_3621,isa,Dihydroorotate Dehydrogenase Inhibitor,C1511961,en_5815,UMLS,Axiom
+educational intervention,C0281163,en_3626,isa,Informational Intervention,C1881205,en_6062,UMLS,Axiom
+antibody therapy,C0281176,en_3628,isa,Immunotherapy,C0021083,en_1290,UMLS,Axiom
+Palliative Surgery,C0282282,en_3642,isa,Palliative Care,C0030231,en_1743,UMLS,Axiom
+"2,4-thiazolidinedione",C0289779,en_3676,isa,Hypoglycemic Agents,C0020616,en_1246,UMLS,Axiom
+ran-binding protein 2,C0299456,en_3686,isa,Molecular Chaperones,C0243041,en_3452,UMLS,Axiom
+Interferon Regulatory Factor 4,C0299544,en_3687,isa,TRANSCRIPTION FACTOR,C0040648,en_2264,UMLS,Axiom
+Primary immune response,C0301875,en_3697,isa,Immune response,C0301872,en_3696,UMLS,Axiom
+Maximum oxygen uptake,C0429693,en_4022,isa,Oxygen uptake,C0429627,en_4020,UMLS,Axiom
+Lead compound,C0303231,en_3716,isa,Lead,C0023175,en_1403,UMLS,Axiom
+Reporter,C0335038,en_3782,isa,Research Personnel,C0035173,en_2002,UMLS,Axiom
+Hot water,C0337023,en_3789,isa,Water,C0043047,en_2384,UMLS,Axiom
+Austrians,C0337795,en_3797,isa,Ethnic group,C0015031,en_934,UMLS,Axiom
+Hospital pharmacist,C0402002,en_3957,isa,pharmacist,C0031323,en_1786,UMLS,Axiom
+Non-tuberculous mycobacterial pneumonia,C0349650,en_3843,isa,INFECTIOUS PROCESS,C0745283,en_4812,UMLS,Axiom
+H-Cadherin,C0390690,en_3911,isa,Cadherins,C0006631,en_532,UMLS,Axiom
+Nasotracheal intubation,C0396625,en_3942,isa,Intubation,C0021925,en_1352,UMLS,Axiom
+Interval appendectomy,C0399995,en_3952,isa,Appendectomy,C0003611,en_386,UMLS,Axiom
+Advanced life support,C0419055,en_3978,isa,Life support procedure,C0521300,en_4200,UMLS,Axiom
+Follow-up consultation,C0422322,en_3987,isa,Consultation,C0009818,en_708,UMLS,Axiom
+Pulmonary artery pressure,C0428642,en_4013,isa,Blood Pressure,C0005823,en_492,UMLS,Axiom
+Apolipoprotein E isoform,C0443526,en_4066,isa,Apolipoprotein E,C0003595,en_6500,UMLS,Axiom
+Liver enzyme,C0443764,en_6638,isa,Liver,C0023884,en_1452,UMLS,Axiom
+Inspiratory muscle training,C0454511,en_4107,isa,Physiotherapy of chest,C0199467,en_3094,UMLS,Axiom
+Positive pressure therapy,C0454517,en_4108,isa,Physiotherapy of chest,C0199467,en_3094,UMLS,Axiom
+Contents,C0456205,en_4116,isa,Substance,C0439861,en_4040,UMLS,Axiom
+Renal disease diet,C0457987,en_4124,isa,Diet,C0012155,en_811,UMLS,Axiom
+tissue inhibitor of metalloproteinase 4,C0532028,en_4237,isa,Tissue Inhibitor of Metalloproteinases,C0145988,en_2797,UMLS,Axiom
+xanthohumol,C0536128,en_4243,isa,Antineoplastic Agents,C0003392,en_371,UMLS,Axiom
+xanthohumol,C0536128,en_4243,isa,Pharmacologic Substance,C1254351,en_5395,UMLS,Axiom
+xanthohumol,C0536128,en_4243,isa,Flavonoids,C0596577,en_4393,UMLS,Axiom
+xanthohumol,C0536128,en_4243,isa,Chemopreventive Agent,C1516463,en_5858,UMLS,Axiom
+Chart evaluation by healthcare professional,C0541653,en_4251,isa,Informational Intervention,C1881205,en_6062,UMLS,Axiom
+Renal Cell,C0553257,en_4286,isa,Glandular Cell,C1517548,en_5868,UMLS,Axiom
+Close supervision,C0557988,en_4312,isa,Supervision,C0038842,en_2187,UMLS,Axiom
+Moderate asthma,C0581125,en_4344,isa,Asthma,C0004096,en_418,UMLS,Axiom
+Percutaneous dilational tracheostomy,C1301722,en_5510,isa,Percutaneous tracheostomy,C0584877,en_4353,UMLS,Axiom
+Antihypertensive therapy,C0585941,en_4355,isa,Therapeutic procedure,C0087111,en_2744,UMLS,Axiom
+Lipid-lowering therapy,C0585943,en_4356,isa,Metabolic therapy,C0587059,en_4360,UMLS,Axiom
+Metabolic therapy,C0587059,en_4360,isa,Therapeutic procedure,C0087111,en_2744,UMLS,Axiom
+Metabolic therapy,C0587059,en_4360,isa,Medical therapy,C0418981,en_3974,UMLS,Axiom
+Metabolic therapy,C0587059,en_4360,isa,Nursing interventions,C0886296,en_5085,UMLS,Axiom
+Active Ingredients,C1372955,en_5682,isa,ingredient,C1550600,en_5956,UMLS,Axiom
+Tumor Initiation,C0598935,en_4456,isa,Tumorigenesis,C1326912,en_5561,UMLS,Axiom
+Aptamer,C0599013,en_4460,isa,Nucleic Acids,C0028606,en_1690,UMLS,Axiom
+Late pregnancy,C0878751,en_5077,isa,Pregnancy,C0032961,en_1872,UMLS,Axiom
+cysteinyl-leukotriene,C0675175,en_4543,isa,Immunologic Factors,C0021054,en_1285,UMLS,Axiom
+cysteinyl-leukotriene,C0675175,en_4543,isa,Cysteine,C0010654,en_742,UMLS,Axiom
+cysteinyl-leukotriene,C0675175,en_4543,isa,Leukotrienes,C0023545,en_1426,UMLS,Axiom
+prenatal alcohol exposure,C0678807,en_4571,isa,Prenatal Exposure,C0871124,en_5018,UMLS,Axiom
+Human Cell Line,C0682523,en_4644,isa,Cell Line,C0007600,en_591,UMLS,Axiom
+Well child,C0686744,en_4681,isa,Fit and well,C0424576,en_3995,UMLS,Axiom
+Viral Pathogenesis,C1520005,en_5895,isa,Pathogenesis,C0699748,en_4703,UMLS,Axiom
+lymphocyte differentiation,C1159914,en_5348,isa,Lymphocyte Activation,C0024262,en_1468,UMLS,Axiom
+Electrocardiographic axis,C0728839,en_4759,isa,Heart,C0018787,en_1130,UMLS,Axiom
+dialysis chronic,C0743165,en_4800,isa,Kidney,C0022646,en_1380,UMLS,Axiom
+RESPIRATORY ISOLATION,C0748359,en_4832,isa,Lung,C0024109,en_1460,UMLS,Axiom
+WORK UP,C0750430,en_4841,isa,diagnostic procedure,C0430022,en_4024,UMLS,Axiom
+COLLOIDAL SILVER,C0772313,en_4875,isa,Silver,C0037125,en_6556,UMLS,Axiom
+Deterioration,C0868945,en_4997,isa,Disease Progression,C0242656,en_3429,UMLS,Axiom
+Institutional care,C0868975,en_4999,isa,Institutionalization,C0021629,en_1323,UMLS,Axiom
+"Transcranial Magnetic Stimulation, Repetitive",C0872259,en_5043,isa,Therapeutic procedure,C0087111,en_2744,UMLS,Axiom
+BGP 15,C0912893,en_5100,isa,Enzyme Inhibitors,C0014432,en_911,UMLS,Axiom
+type I collagen alpha 1,C0972255,en_5212,isa,Collagen,C0009325,en_677,UMLS,Axiom
+Aspirin 150 MG,C0983851,en_5216,isa,Aspirin,C0004057,en_414,UMLS,Axiom
+Dapsone 100 MG,C0985298,en_5217,isa,Dapsone,C0010980,en_759,UMLS,Axiom
+Dexamethasone 6 MG,C0985347,en_5218,isa,Dexamethasone,C0011777,en_796,UMLS,Axiom
+Ritonavir 100 MG,C0992889,en_5219,isa,Ritonavir,C0292818,en_3680,UMLS,Axiom
+Spironolactone 50 MG,C0992989,en_5220,isa,Spironolactone,C0037982,en_2144,UMLS,Axiom
+Azithromycin 500 MG,C1126333,en_5252,isa,Azithromycin,C0052796,en_2439,UMLS,Axiom
+Sexual transmission,C1519279,en_5882,isa,disease transmission,C0242781,en_3438,UMLS,Axiom
+"Recorders, Electronic Storage, Data, Physical Activity",C1139952,en_5278,isa,Analyzer,C0179038,en_2998,UMLS,Axiom
+Sexual behavior analysis,C1171217,en_5375,isa,Psychosocial care,C1455743,en_5769,UMLS,Axiom
+Cutaneous muscle,C1184459,en_5390,isa,Muscle,C0026845,en_1603,UMLS,Axiom
+Povidone-Iodine Mouthwash,C1251768,en_5394,isa,Povidone-Iodine,C0032857,en_1864,UMLS,Axiom
+laquinimod,C1260208,en_5409,isa,Quinolones,C0034428,en_1946,UMLS,Axiom
+Entire nervous system,C1269560,en_6701,isa,Entire body system,C0392912,en_3927,UMLS,Axiom
+Solution-Focused Brief Therapy,C1276047,en_5463,isa,Psychotherapy,C0033968,en_1921,UMLS,Axiom
+Empirical antibiotic therapy,C1299622,en_5505,isa,Antibiotic therapy,C0338237,en_3802,UMLS,Axiom
+Problem solving therapy,C1303140,en_5513,isa,Psychotherapy,C0033968,en_1921,UMLS,Axiom
+"SH2D3A protein, human",C1309025,en_5526,isa,Adaptor Signaling Protein,C1135629,en_5257,UMLS,Axiom
+Forkhead Box Protein O4,C1333634,en_5595,isa,TRANSCRIPTION FACTOR,C0040648,en_2264,UMLS,Axiom
+Hypermethylation,C1512554,en_5821,isa,DNA Methylation,C0376452,en_3877,UMLS,Axiom
+Rintatolimod,C1434913,en_5728,isa,Antiviral Agents,C0003451,en_379,UMLS,Axiom
+Adenovirus Vector,C1510800,en_5801,isa,Viral Vector,C1520007,en_5896,UMLS,Axiom
+Detection,C1511790,en_5814,isa,diagnostic procedure,C0430022,en_4024,UMLS,Axiom
+Harvest,C1512335,en_5817,isa,Transplantation,C0040732,en_2275,UMLS,Axiom
+Surgical Management,C1515089,en_5845,isa,Supportive care,C0344211,en_3836,UMLS,Axiom
+Systemic Therapy,C1515119,en_5846,isa,Therapeutic procedure,C0087111,en_2744,UMLS,Axiom
+Clonal Expansion,C1516670,en_5861,isa,Cell Growth,C0007595,en_590,UMLS,Axiom
+Local Therapy,C1517925,en_5870,isa,Therapeutic procedure,C0087111,en_2744,UMLS,Axiom
+Low Dose Radiation,C1518010,en_5872,isa,Radiation therapy,C0034618,en_1956,UMLS,Axiom
+Recombinant Interferon,C1522537,en_5903,isa,Pharmacologic Substance,C1254351,en_5395,UMLS,Axiom
+"TIMP3 protein, human",C1527365,en_5924,isa,Tissue Inhibitor of Metalloproteinases,C0145988,en_2797,UMLS,Axiom
+Emergency percutaneous coronary intervention,C1532297,en_5931,isa,Emergency procedure,C1298802,en_5501,UMLS,Axiom
+Emergency percutaneous coronary intervention,C1532297,en_5931,isa,Percutaneous coronary intervention,C1532338,en_5932,UMLS,Axiom
+Homeostatic mechanism,C1561987,en_6743,isa,Homeostasis,C0019868,en_1201,UMLS,Axiom
+"5S,12R,18R-trihydroxy-6Z,8E,10E,14Z,16E-eicosapentaenoic acid",C1568094,en_5987,isa,Eicosapentaenoic Acid,C0000545,en_203,UMLS,Axiom
+nebulization-mediated drug administration,C1659427,en_6019,isa,Therapeutic procedure,C0087111,en_2744,UMLS,Axiom
+cytoflavin,C1701400,en_6024,isa,Drug Combinations,C0013162,en_852,UMLS,Axiom
+cytoflavin,C1701400,en_6024,isa,Niacinamide,C0028027,en_1680,UMLS,Axiom
+Lyso-Thermosensitive Liposome Doxorubicin,C1831903,en_6047,isa,Pharmacologic Substance,C1254351,en_5395,UMLS,Axiom
+Microbiome,C1956108,en_6068,isa,Microorganism,C0445623,en_4075,UMLS,Axiom
+Nutritional risk index:Arbitrary Concentration:Point in time:^Patient:Quantitative,C1977904,en_6076,isa,Laboratory,C0022877,en_1392,UMLS,Axiom
+Inhibitor,C1999216,en_6749,isa,Agent,C0450442,en_4084,UMLS,Axiom
+Influenza A,C2062441,en_6088,isa,Influenza,C0021400,en_1311,UMLS,Axiom
+ciclesonide Metered Dose Inhaler,C2344604,en_6096,isa,ciclesonide,C0907850,en_5095,UMLS,Axiom
+Myobacterium w (attenuated),C2349988,en_6102,isa,Pharmacologic Substance,C1254351,en_5395,UMLS,Axiom
+Current Therapy,C2827774,en_6138,isa,Therapeutic procedure,C0087111,en_2744,UMLS,Axiom
+Recombinant Human Deoxyribonuclease 1 [EPC],C2917414,en_6143,isa,Recombinant Proteins,C0034861,en_1981,UMLS,Axiom
+Recombinant Human Deoxyribonuclease 1 [EPC],C2917414,en_6143,isa,Deoxyribonuclease I,C0011519,en_785,UMLS,Axiom
+Conventional Treatment,C2945704,en_6157,isa,Therapeutic procedure,C0087111,en_2744,UMLS,Axiom
+danoprevir,C2973564,en_6160,isa,Protease Inhibitor,C0033607,en_1905,UMLS,Axiom
+Intestinal Microbiome,C2985398,en_6166,isa,Microbiome,C1956108,en_6068,UMLS,Axiom
+Targeted Therapy,C2985566,en_6168,isa,Therapeutic procedure,C0087111,en_2744,UMLS,Axiom
+Tailored Intervention,C2986593,en_6172,isa,Therapeutic procedure,C0087111,en_2744,UMLS,Axiom
+Urgent Procedure,C3272275,en_6188,isa,Therapeutic procedure,C0087111,en_2744,UMLS,Axiom
+"Transformation, function",C3714584,en_6757,isa,Adaptation,C0392673,en_3925,UMLS,Axiom
+Pathogenic,C3816499,en_6761,isa,Pathogenicity,C1136169,en_5262,UMLS,Axiom
+Severe acute respiratory infection,C3873497,en_6279,isa,INFECTIOUS PROCESS,C0745283,en_4812,UMLS,Axiom
+Recurrent thromboembolism,C4025286,en_6296,isa,Thromboembolism,C0040038,en_2230,UMLS,Axiom
+Maintenance hemodialysis,C4040576,en_6302,isa,Hemodialysis,C0019004,en_1155,UMLS,Axiom
+clazakizumab,C4077748,en_6315,isa,"Antibodies, Monoclonal, Humanized",C2985546,en_6167,UMLS,Axiom
+Kidney Transplant Recipient,C4304779,en_6336,isa,Solid Organ Transplant Recipient,C4331301,en_6348,UMLS,Axiom
+ravidasvir,C4508633,en_6355,isa,Valine,C0042285,en_2333,UMLS,Axiom
+Proactive Therapy,C4744673,en_6397,isa,Therapeutic procedure,C0087111,en_2744,UMLS,Axiom
+Pharmacological Ascorbate,C4744839,en_6399,isa,Pharmacologic Substance,C1254351,en_5395,UMLS,Axiom
+Bemcentinib,C4763383,en_6404,isa,Pharmacologic Substance,C1254351,en_5395,UMLS,Axiom
+Single Agent Therapy,C4763675,en_6405,isa,Pharmacotherapy,C0013216,en_855,UMLS,Axiom
+Venovenous extracorporeal membrane oxygenation,C5192099,en_6411,isa,Extracorporeal Membrane Oxygenation,C0015357,en_948,UMLS,Axiom
+"spike protein, SARS-CoV-2",C5391442,en_6439,isa,"Spike Glycoprotein, Coronavirus",C3658243,en_6225,UMLS,Axiom
+SARS-CoV-2 IgG,C5397186,en_6771,isa,Immunoglobulin G,C0020852,en_1264,UMLS,Axiom
+SARS-CoV-2 inactivated vaccines,C5416836,en_6455,isa,"Vaccines, Inactivated",C0042212,en_2331,UMLS,Axiom
+SARS-CoV-2 inactivated vaccines,C5416836,en_6455,isa,COVID-19 Vaccines,C5387588,en_6436,UMLS,Axiom
+recombinant SARS-CoV-2 vaccine NVX-cov2373,C5416844,en_6456,isa,COVID-19 Vaccines,C5387588,en_6436,UMLS,Axiom
+Aging,C0001811,en_262,isa(infered),Aging-Related Process,C1510835,en_5804,UMLS,infered
+Neutrophil chemotaxis,C0312861,en_3738,isa(infered),"Neutrophil migration, function",C0312860,en_3737,UMLS,infered
+Respiration,C0035203,en_2004,isa(infered),Respiratory process,C0442688,en_4050,UMLS,infered
+Alkaline Phosphatase,C0002059,en_275,isa(infered),Liver,C0023884,en_1452,UMLS,infered
+Alkaline Phosphatase,C0002059,en_275,isa(infered),Liver enzyme,C0443764,en_6638,UMLS,infered
+Capillary Permeability,C0006906,en_551,isa(infered),Vascular Permeability,C0162337,en_2906,UMLS,infered
+Vascular Permeability,C0162337,en_2906,isa(infered),Capillary Permeability,C0006906,en_551,UMLS,infered
+Capillary Permeability,C0006906,en_551,isa(infered),Vascular function,C0232337,en_3275,UMLS,infered
+Acute Lung Injury,C0242488,en_3416,isa(infered),pulmonary complications,C0281169,en_3627,UMLS,infered
+Acute Lung Injury,C0242488,en_3416,isa(infered),Complication,C0009566,en_697,UMLS,infered
+Acute Lung Injury,C0242488,en_3416,isa(infered),Lung,C0024109,en_1460,UMLS,infered
+viral genome replication,C1160701,en_5361,isa(infered),Viral life cycle,C1160638,en_5357,UMLS,infered
+Movement,C0026649,en_1588,isa(infered),Process,C1522240,en_5901,UMLS,infered
+Infected,C0439663,en_4036,isa(infered),Etiologic Agent,C1254373,en_5397,UMLS,infered
+Organism,C0029235,en_1717,isa(infered),Etiologic Agent,C1254373,en_5397,UMLS,infered
+Bone Resorption,C0005974,en_503,isa(infered),tissue homeostasis,C1523351,en_5911,UMLS,infered
+Brachytherapy,C0006098,en_506,isa(infered),Therapeutic procedure,C0087111,en_2744,UMLS,infered
+Brachytherapy,C0006098,en_506,isa(infered),Local Therapy,C1517925,en_5870,UMLS,infered
+Thrombin,C0040018,en_2228,isa(infered),Thrombogen,C0723739,en_4749,UMLS,infered
+Complement Activation,C0009528,en_695,isa(infered),Immune response,C0301872,en_3696,UMLS,infered
+Complement Activation,C0009528,en_695,isa(infered),humoral immune response,C1155229,en_5318,UMLS,infered
+Historical Cohort,C2348984,en_6100,isa(infered),cohort,C0599755,en_4470,UMLS,infered
+Historical Cohort,C2348984,en_6100,isa(infered),Population Group,C1257890,en_5403,UMLS,infered
+Angiogenesis,C0302600,en_3709,isa(infered),Vascular function,C0232337,en_3275,UMLS,infered
+Age Cohort,C2348001,en_6097,isa(infered),Population Group,C1257890,en_5403,UMLS,infered
+Mastectomy,C0024881,en_1505,isa(infered),Breast Cancer Treatment,C1511300,en_5809,UMLS,infered
+Cytopathic effect,C0333467,en_3765,isa(infered),Pathogenesis,C0699748,en_4703,UMLS,infered
+Cytopathic effect,C0333467,en_3765,isa(infered),Viral Pathogenesis,C1520005,en_5895,UMLS,infered
+Platelet Activation,C0032173,en_1827,isa(infered),cell activation,C1326120,en_5553,UMLS,infered
+Pro-Opiomelanocortin,C0033195,en_6550,isa(infered),Hormone precursor,C0301817,en_3693,UMLS,infered
+Influenza-like symptoms,C0392171,en_3915,isa(infered),General body state finding,C0424575,en_3994,UMLS,infered
+Influenza-like symptoms,C0392171,en_3915,isa(infered),Multiple symptoms,C0231217,en_6602,UMLS,infered
+Physiological action,C0442687,en_4049,isa(infered),Process,C1522240,en_5901,UMLS,infered
+Ribavirin,C0035525,en_2032,isa(infered),antiviral nucleoside analog,C0599686,en_4466,UMLS,infered
+Food Insecurity,C3494174,en_6203,isa(infered),Insecurity,C0233497,en_3295,UMLS,infered
+leflunomide,C0063041,en_2502,isa(infered),Dihydroorotate Dehydrogenase Inhibitor,C1511961,en_5815,UMLS,infered
+tocilizumab,C1609165,en_6003,isa(infered),Interleukin-6 Receptor Antagonist [EPC],C3819026,en_6245,UMLS,infered
+Tocilizumab therapy,C4510396,en_6356,isa(infered),Interleukin-6 Receptor Antagonist [EPC],C3819026,en_6245,UMLS,infered
+mometasone furoate,C0066700,en_2525,isa(infered),Topical form corticosteroids,C0304604,en_3725,UMLS,infered
+Bronchoconstriction,C0079043,en_2591,isa(infered),Respiratory process,C0442688,en_4050,UMLS,infered
+Multiple somatic complaints,C0233756,en_6607,isa(infered),General body state finding,C0424575,en_3994,UMLS,infered
+Invasive pulmonary aspergillosis,C0276653,en_3581,isa(infered),INFECTIOUS PROCESS,C0745283,en_4812,UMLS,infered
+Invasive pulmonary aspergillosis,C0276653,en_3581,isa(infered),Aspergillosis,C0004030,en_409,UMLS,infered
+Invasive pulmonary aspergillosis,C0276653,en_3581,isa(infered),"ASPERGILLOSIS, INVASIVE",C0238013,en_3360,UMLS,infered
+T-cell differentiation,C1155013,en_5313,isa(infered),Lymphocyte Activation,C0024262,en_1468,UMLS,infered
+Hormone replacement therapy,C0282402,en_3645,isa(infered),Replacement therapy,C0279033,en_3612,UMLS,infered
+Ritonavir,C0292818,en_3680,isa(infered),darunavir and ritonavir,C1976853,en_6075,UMLS,infered
+Contents,C0456205,en_4116,isa(infered),Rehydration,C0034997,en_1990,UMLS,infered
+Lipid-lowering therapy,C0585943,en_4356,isa(infered),Therapeutic procedure,C0087111,en_2744,UMLS,infered
+Lipid-lowering therapy,C0585943,en_4356,isa(infered),Medical therapy,C0418981,en_3974,UMLS,infered
+Lipid-lowering therapy,C0585943,en_4356,isa(infered),Nursing interventions,C0886296,en_5085,UMLS,infered
+Aspirin 150 MG,C0983851,en_5216,isa(infered),Dipyridamole,C0012582,en_823,UMLS,infered
+Aspirin 150 MG,C0983851,en_5216,isa(infered),Aggrenox,C0732282,en_4771,UMLS,infered
+Ritonavir 100 MG,C0992889,en_5219,isa(infered),darunavir and ritonavir,C1976853,en_6075,UMLS,infered
+erythrocyte differentiation,C1159942,en_5349,isa(infered),erythrocyte homeostasis,C2247681,en_6094,UMLS,infered
+Dialysis care,C1161201,en_5364,isa(infered),Renal care,C1171215,en_5374,UMLS,infered
+Povidone-Iodine Mouthwash,C1251768,en_5394,isa(infered),Ethanol,C0001962,en_271,UMLS,infered
+Povidone-Iodine Mouthwash,C1251768,en_5394,isa(infered),Prevail,C3152857,en_6174,UMLS,infered
+Internet-Based Intervention,C3898714,en_6287,isa(infered),Informational Intervention,C1881205,en_6062,UMLS,infered
+ciclesonide Metered Dose Inhaler,C2344604,en_6096,isa(infered),Alvesco,C1174745,en_5380,UMLS,infered
+ruxolitinib,C2931926,en_6148,isa(infered),JAK1 Inhibitor,C4330505,en_6346,UMLS,infered
+Intestinal Microbiome,C2985398,en_6166,isa(infered),Microorganism,C0445623,en_4075,UMLS,infered
+sarilumab,C3885145,en_6280,isa(infered),Interleukin-6 Receptor Antagonist [EPC],C3819026,en_6245,UMLS,infered
+abrocitinib,C5139788,en_6408,isa(infered),JAK1 Inhibitor,C4330505,en_6346,UMLS,infered

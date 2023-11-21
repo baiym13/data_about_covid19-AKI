@@ -1,0 +1,536 @@
+cui,en,en_id
+C0000545,Eicosapentaenoic Acid,en_203
+C0001280,Armed macrophage,en_228
+C0001563,"Administration, Oral",en_245
+C0001811,Aging,en_262
+C0001962,Ethanol,en_271
+C0002059,Alkaline Phosphatase,en_275
+C0002771,Analgesics,en_312
+C0003060,Animal Viruses,en_334
+C0003205,"Anti-Infective Agents, Local",en_341
+C0003211,"Anti-Inflammatory Agents, Non-Steroidal",en_343
+C0003280,Anticoagulants,en_354
+C0003281,anticoagulation,en_355
+C0003374,Antimalarials,en_369
+C0003392,Antineoplastic Agents,en_371
+C0003402,Antioxidants,en_372
+C0003451,Antiviral Agents,en_379
+C0003611,Appendectomy,en_386
+C0004030,Aspergillosis,en_409
+C0004057,Aspirin,en_414
+C0004096,Asthma,en_418
+C0004627,Bacterial Proteins,en_443
+C0005740,Bleomycin,en_481
+C0005823,Blood Pressure,en_492
+C0005974,Bone Resorption,en_503
+C0006098,Brachytherapy,en_506
+C0006142,Malignant neoplasm of breast,en_511
+C0006280,Bronchodilator Agents,en_519
+C0006560,C-reactive protein,en_529
+C0006631,Cadherins,en_532
+C0006663,Calcinosis,en_535
+C0006684,Calcium Channel Blockers,en_539
+C0006906,Capillary Permeability,en_551
+C0007595,Cell Growth,en_590
+C0007600,Cell Line,en_591
+C0008018,Chemotaxis,en_615
+C0008059,Child,en_620
+C0008679,Chronic Disease,en_643
+C0008715,Chronically Ill,en_644
+C0009325,Collagen,en_677
+C0009528,Complement Activation,en_695
+C0009566,Complication,en_697
+C0009818,Consultation,en_708
+C0010654,Cysteine,en_742
+C0010980,Dapsone,en_759
+C0011519,Deoxyribonuclease I,en_785
+C0011581,Depressive disorder,en_788
+C0011777,Dexamethasone,en_796
+C0011991,Diarrhea,en_810
+C0012155,Diet,en_811
+C0012582,Dipyridamole,en_823
+C0013162,Drug Combinations,en_852
+C0013216,Pharmacotherapy,en_855
+C0013232,"Drugs, Orphan",en_859
+C0013331,Dutch Population,en_862
+C0014432,Enzyme Inhibitors,en_911
+C0015031,Ethnic group,en_934
+C0015133,Etoposide,en_936
+C0015357,Extracorporeal Membrane Oxygenation,en_948
+C0015982,Fibrin,en_987
+C0016018,Fibrinolytic Agents,en_991
+C0017696,Glucans,en_1067
+C0017890,Glycine,en_1080
+C0018681,Headache,en_1115
+C0018738,Health Promotion,en_1124
+C0018787,Heart,en_1130
+C0019004,Hemodialysis,en_1155
+C0019080,Hemorrhage,en_1161
+C0019868,Homeostasis,en_1201
+C0019994,Hospitals,en_1207
+C0020063,"PTH protein, human",en_1209
+C0020616,Hypoglycemic Agents,en_1246
+C0020852,Immunoglobulin G,en_1264
+C0021054,Immunologic Factors,en_1285
+C0021081,Immunosuppressive Agents,en_1289
+C0021083,Immunotherapy,en_1290
+C0021400,Influenza,en_1311
+C0021629,Institutionalization,en_1323
+C0021764,Interleukins,en_1345
+C0021925,Intubation,en_1352
+C0022646,Kidney,en_1380
+C0022877,Laboratory,en_1392
+C0023175,Lead,en_1403
+C0023545,Leukotrienes,en_1426
+C0023676,Life Style,en_1432
+C0023884,Liver,en_1452
+C0024109,Lung,en_1460
+C0024262,Lymphocyte Activation,en_1468
+C0024348,Lysis,en_1476
+C0024432,macrophage,en_1484
+C0024861,Masks,en_1501
+C0024881,Mastectomy,en_1505
+C0025252,Membrane Proteins,en_1530
+C0025320,Menopause,en_1538
+C0025677,Methotrexate,en_1556
+C0026649,Movement,en_1588
+C0026820,Muscle Contraction,en_1601
+C0026845,Muscle,en_1603
+C0027059,Myocarditis,en_1627
+C0027895,Neuropeptides,en_1673
+C0027950,neutrophil,en_1676
+C0028027,Niacinamide,en_1680
+C0028606,Nucleic Acids,en_1690
+C0029235,Organism,en_1717
+C0030193,Pain,en_1741
+C0030231,Palliative Care,en_1743
+C0031154,Peritonitis,en_1778
+C0031323,pharmacist,en_1786
+C0031638,Phosphodiesterase Inhibitors,en_1795
+C0032173,Platelet Activation,en_1827
+C0032712,Porphyrins,en_1853
+C0032787,Postoperative Complications,en_1858
+C0032857,Povidone-Iodine,en_1864
+C0032952,Prednisone,en_1871
+C0032961,Pregnancy,en_1872
+C0033053,Prenatal Diagnosis,en_1879
+C0033607,Protease Inhibitor,en_1905
+C0033706,Prothrombin,en_1914
+C0033968,Psychotherapy,en_1921
+C0034428,Quinolones,en_1946
+C0034538,Ionizing radiation,en_1954
+C0034618,Radiation therapy,en_1956
+C0034861,Recombinant Proteins,en_1981
+C0034991,Rehabilitation therapy,en_1989
+C0034997,Rehydration,en_1990
+C0035173,Research Personnel,en_2002
+C0035203,Respiration,en_2004
+C0035525,Ribavirin,en_2032
+C0035668,RNA,en_2040
+C0036733,Serine Proteinase Inhibitors,en_2088
+C0037366,Smoke,en_2123
+C0037982,Spironolactone,en_2144
+C0038218,Status Asthmaticus,en_2156
+C0038492,student,en_2171
+C0038739,Sulfides,en_2180
+C0038842,Supervision,en_2187
+C0039051,Sympatholytics,en_2195
+C0039309,Target Population,en_2207
+C0040018,Thrombin,en_2228
+C0040038,Thromboembolism,en_2230
+C0040577,Trace Elements,en_2254
+C0040648,TRANSCRIPTION FACTOR,en_2264
+C0040732,Transplantation,en_2275
+C0042212,"Vaccines, Inactivated",en_2331
+C0042285,Valine,en_2333
+C0042402,Vasodilator Agents,en_2343
+C0042736,Viral Proteins,en_2357
+C0042776,Virus,en_2364
+C0042866,Vitamin D,en_2371
+C0043047,Water,en_2384
+C0044091,1-(1-(2-thienyl)cyclohexyl)piperidine,en_2411
+C0048060,4-aminoquinoline,en_2420
+C0051844,angiogenin,en_2430
+C0052796,Azithromycin,en_2439
+C0053959,boswellic acid,en_2444
+C0057856,iproplatin,en_2469
+C0058903,ebselen,en_2476
+C0059306,"enkephalin-Leu, Ala(2)-Arg(6)-",en_2479
+C0059386,"enterotoxin B, staphylococcal",en_2480
+C0060008,Factor IIa,en_2482
+C0060327,fibrinmonomer,en_2485
+C0061450,glucuronyl glucosamine glycan sulfate,en_2493
+C0063041,leflunomide,en_2502
+C0063529,influenza A virus nucleoprotein,en_2506
+C0065081,Listerine,en_2516
+C0065432,zaprinast,en_2519
+C0065827,"nucleoprotein, Measles virus",en_2522
+C0066700,mometasone furoate,en_2525
+C0066752,monoferrous acid citrate,en_2526
+C0068711,nicotinamide-beta-riboside,en_2532
+C0070074,paramylon,en_2538
+C0071105,piperaquine,en_2544
+C0072497,protoporphyrin IX,en_2552
+C0072768,pyronaridine,en_2553
+C0073429,RNA primers,en_2564
+C0073917,bucillamine,en_2566
+C0073966,Salazopyrine,en_2567
+C0076316,tetrandrine,en_2575
+C0076327,tetraphenylporphine,en_2576
+C0078140,VBM protocol,en_2587
+C0078144,daunorubicin/prednisone/vincristine protocol,en_2588
+C0079043,Bronchoconstriction,en_2591
+C0079189,cytokine,en_2593
+C0085873,Basic life support,en_2696
+C0086143,Diagnostic tests,en_2703
+C0087086,Thrombus,en_2743
+C0087111,Therapeutic procedure,en_2744
+C0087178,Youth,en_2748
+C0108225,camostate-mesilate,en_2756
+C0123047,ibudilast,en_2769
+C0130137,"N-(2-(4-(2,2-dimethylpropionyloxy)phenylsulfonylamino)benzoyl)aminoacetic acid",en_2780
+C0143595,"auR protein, Staphylococcus aureus",en_2791
+C0145988,Tissue Inhibitor of Metalloproteinases,en_2797
+C0149725,Lower respiratory tract infection,en_2806
+C0161818,Respiratory complication,en_2899
+C0162337,Vascular Permeability,en_2906
+C0162713,Photosensitizing Agents,en_2928
+C0168318,interleukin-1beta-converting enzyme inhibitor,en_2956
+C0174234,PTX3 protein,en_2965
+C0175795,Oral medication,en_2972
+C0179038,Analyzer,en_2998
+C0180797,Surgical Helmet Systems,en_3011
+C0180860,Filters,en_3013
+C0180863,"Filters, Blood",en_3014
+C0181758,Surgical face mask,en_3028
+C0183251,Shield,en_3042
+C0183255,Face Shields,en_3043
+C0184643,Mental health care,en_3059
+C0184645,Mental health promotion,en_3060
+C0184647,Mental health treatment,en_3061
+C0199467,Physiotherapy of chest,en_3094
+C0199974,Cytokine therapy,en_3102
+C0200323,Auditory rehabilitation,en_3104
+C0204511,Psychiatric follow-up,en_3115
+C0205653,Adolescent,en_3132
+C0207683,nafamostat,en_3180
+C0215825,adrenomedullin,en_3189
+C0229611,Tissue neutrophil,en_3243
+C0232337,Vascular function,en_3275
+C0233497,Insecurity,en_3295
+C0238013,"ASPERGILLOSIS, INVASIVE",en_3360
+C0238884,CANADIAN,en_3371
+C0239059,Cigarette smoke,en_3373
+C0239889,Headache Severe,en_3376
+C0241311,post operative (finding),en_3389
+C0242444,Population at Risk,en_3415
+C0242488,Acute Lung Injury,en_3416
+C0242656,Disease Progression,en_3429
+C0242781,disease transmission,en_3438
+C0242912,Neuroprotective Agents,en_3443
+C0243041,Molecular Chaperones,en_3452
+C0243628,Formaldehyde dehydrogenase (glutathione),en_3472
+C0246081,carbapenemase,en_3478
+C0250336,CARE protocol,en_3485
+C0254211,arbidol,en_3489
+C0257634,proadrenomedullin,en_3496
+C0259945,Hospital care,en_3505
+C0260267,School child,en_3511
+C0264222,Acute upper respiratory infection,en_3530
+C0264490,Acute respiratory failure,en_3533
+C0268422,Proteinosis,en_3547
+C0275521,Clinical infection,en_3564
+C0275556,Acute bacterial sinusitis,en_3569
+C0275626,Struck,en_3570
+C0275814,Streptococcal lymphadenitis of swine,en_3571
+C0276170,Infectious canine tracheobronchitis,en_3575
+C0276356,Equine influenza,en_3577
+C0276467,Neonatal calf diarrhea,en_3578
+C0276500,Human immunodeficiency virus I infection,en_3579
+C0276653,Invasive pulmonary aspergillosis,en_3581
+C0278140,Severe pain,en_3598
+C0279033,Replacement therapy,en_3612
+C0279936,tumor necrosis factor therapy,en_3618
+C0280509,brequinar,en_3621
+C0281163,educational intervention,en_3626
+C0281169,pulmonary complications,en_3627
+C0281176,antibody therapy,en_3628
+C0282282,Palliative Surgery,en_3642
+C0282402,Hormone replacement therapy,en_3645
+C0289779,"2,4-thiazolidinedione",en_3676
+C0292818,Ritonavir,en_3680
+C0299456,ran-binding protein 2,en_3686
+C0299544,Interferon Regulatory Factor 4,en_3687
+C0301630,Reduction (chemical),en_3691
+C0301817,Hormone precursor,en_3693
+C0301872,Immune response,en_3696
+C0301875,Primary immune response,en_3697
+C0302600,Angiogenesis,en_3709
+C0303231,Lead compound,en_3716
+C0304604,Topical form corticosteroids,en_3725
+C0312860,"Neutrophil migration, function",en_3737
+C0312861,Neutrophil chemotaxis,en_3738
+C0333279,Massive hemorrhage,en_3761
+C0333467,Cytopathic effect,en_3765
+C0333471,Collagenolysis,en_3766
+C0335038,Reporter,en_3782
+C0337023,Hot water,en_3789
+C0337795,Austrians,en_3797
+C0337810,Italians,en_3799
+C0338237,Antibiotic therapy,en_3802
+C0339952,Secondary bacterial pneumonia,en_3811
+C0344211,Supportive care,en_3836
+C0349650,Non-tuberculous mycobacterial pneumonia,en_3843
+C0376452,DNA Methylation,en_3877
+C0390690,H-Cadherin,en_3911
+C0392171,Influenza-like symptoms,en_3915
+C0392673,Adaptation,en_3925
+C0392912,Entire body system,en_3927
+C0396625,Nasotracheal intubation,en_3942
+C0399995,Interval appendectomy,en_3952
+C0402002,Hospital pharmacist,en_3957
+C0418981,Medical therapy,en_3974
+C0419055,Advanced life support,en_3978
+C0422322,Follow-up consultation,en_3987
+C0424575,General body state finding,en_3994
+C0424576,Fit and well,en_3995
+C0428642,Pulmonary artery pressure,en_4013
+C0429627,Oxygen uptake,en_4020
+C0429693,Maximum oxygen uptake,en_4022
+C0430022,diagnostic procedure,en_4024
+C0439663,Infected,en_4036
+C0439861,Substance,en_4040
+C0442687,Physiological action,en_4049
+C0442688,Respiratory process,en_4050
+C0443526,Apolipoprotein E isoform,en_4066
+C0445623,Microorganism,en_4075
+C0450442,Agent,en_4084
+C0454511,Inspiratory muscle training,en_4107
+C0454517,Positive pressure therapy,en_4108
+C0456205,Contents,en_4116
+C0457987,Renal disease diet,en_4124
+C0521300,Life support procedure,en_4200
+C0524816,Nucleocapsid Proteins,en_4219
+C0532028,tissue inhibitor of metalloproteinase 4,en_4237
+C0535968,25-hydroxyvitamin D,en_4242
+C0536128,xanthohumol,en_4243
+C0541653,Chart evaluation by healthcare professional,en_4251
+C0553257,Renal Cell,en_4286
+C0557988,Close supervision,en_4312
+C0581124,Mild asthma,en_4343
+C0581125,Moderate asthma,en_4344
+C0581126,Severe asthma,en_4345
+C0584877,Percutaneous tracheostomy,en_4353
+C0585941,Antihypertensive therapy,en_4355
+C0585943,Lipid-lowering therapy,en_4356
+C0587059,Metabolic therapy,en_4360
+C0588008,Severe depression,en_4364
+C0589121,Follow-up visit,en_4366
+C0596577,Flavonoids,en_4393
+C0597192,peptide hormone,en_4415
+C0598935,Tumor Initiation,en_4456
+C0599013,Aptamer,en_4460
+C0599686,antiviral nucleoside analog,en_4466
+C0599755,cohort,en_4470
+C0599779,Animal Model,en_4473
+C0599895,protein transport,en_4483
+C0675175,cysteinyl-leukotriene,en_4543
+C0678210,"Passive immunity, function",en_4555
+C0678803,Chemical Exposure,en_4570
+C0678807,prenatal alcohol exposure,en_4571
+C0682053,Toddler,en_4633
+C0682523,Human Cell Line,en_4644
+C0683971,General Population,en_4674
+C0686744,Well child,en_4681
+C0686747,Well adolescent,en_4682
+C0686750,Well adult,en_4683
+C0699748,Pathogenesis,en_4703
+C0723739,Thrombogen,en_4749
+C0725066,Advance,en_4752
+C0728839,Electrocardiographic axis,en_4759
+C0732282,Aggrenox,en_4771
+C0733470,human leukocyte interferon,en_4772
+C0740577,Acute abdominal pain,en_4779
+C0743165,dialysis chronic,en_4800
+C0743284,Drug Exposure,en_4801
+C0745283,INFECTIOUS PROCESS,en_4812
+C0748159,PULMONARY INVOLVEMENT,en_4828
+C0748168,Pulmonary Pathology,en_4829
+C0748169,PULMONARY PROCESS,en_4830
+C0748359,RESPIRATORY ISOLATION,en_4832
+C0750430,WORK UP,en_4841
+C0772313,COLLOIDAL SILVER,en_4875
+C0865681,"Myocarditis, chronic",en_4995
+C0868945,Deterioration,en_4997
+C0868975,Institutional care,en_4999
+C0871124,Prenatal Exposure,en_5018
+C0872070,nucleocytoplasmic transport,en_5034
+C0872259,"Transcranial Magnetic Stimulation, Repetitive",en_5043
+C0878751,Late pregnancy,en_5077
+C0886296,Nursing interventions,en_5085
+C0887839,Nuclear Import,en_5087
+C0907850,ciclesonide,en_5095
+C0912893,BGP 15,en_5100
+C0961814,interleukin-22,en_5197
+C0972255,type I collagen alpha 1,en_5212
+C0983851,Aspirin 150 MG,en_5216
+C0985298,Dapsone 100 MG,en_5217
+C0985347,Dexamethasone 6 MG,en_5218
+C0992889,Ritonavir 100 MG,en_5219
+C0992989,Spironolactone 50 MG,en_5220
+C1126333,Azithromycin 500 MG,en_5252
+C1135629,Adaptor Signaling Protein,en_5257
+C1136169,Pathogenicity,en_5262
+C1139952,"Recorders, Electronic Storage, Data, Physical Activity",en_5278
+C1155013,T-cell differentiation,en_5313
+C1155229,humoral immune response,en_5318
+C1155266,Inflammatory Response,en_5321
+C1155937,smooth muscle contraction,en_5325
+C1159914,lymphocyte differentiation,en_5348
+C1159942,erythrocyte differentiation,en_5349
+C1160638,Viral life cycle,en_5357
+C1160701,viral genome replication,en_5361
+C1161201,Dialysis care,en_5364
+C1171215,Renal care,en_5374
+C1171217,Sexual behavior analysis,en_5375
+C1174745,Alvesco,en_5380
+C1184459,Cutaneous muscle,en_5390
+C1251768,Povidone-Iodine Mouthwash,en_5394
+C1254351,Pharmacologic Substance,en_5395
+C1254373,Etiologic Agent,en_5397
+C1257890,Population Group,en_5403
+C1260208,laquinimod,en_5409
+C1266864,Eating habit,en_5434
+C1268930,Immunologic function,en_5445
+C1276047,Solution-Focused Brief Therapy,en_5463
+C1285162,Degenerative disorder,en_5478
+C1290807,Diarrheal disorder,en_5481
+C1290886,Chronic inflammatory disorder,en_5485
+C1298802,Emergency procedure,en_5501
+C1299622,Empirical antibiotic therapy,en_5505
+C1301722,Percutaneous dilational tracheostomy,en_5510
+C1303140,Problem solving therapy,en_5513
+C1309025,"SH2D3A protein, human",en_5526
+C1318539,Organizing thrombus,en_5532
+C1326120,cell activation,en_5553
+C1326471,Protein Import,en_5556
+C1326912,Tumorigenesis,en_5561
+C1333634,Forkhead Box Protein O4,en_5595
+C1372955,Active Ingredients,en_5682
+C1434913,Rintatolimod,en_5728
+C1443924,Severe diarrhea,en_5740
+C1449647,Secondary Peritonitis,en_5760
+C1455743,Psychosocial care,en_5769
+C1456692,Prenatal Testing,en_5778
+C1504637,"TXN protein, human",en_5790
+C1510800,Adenovirus Vector,en_5801
+C1510835,Aging-Related Process,en_5804
+C1511131,Biochemical Reaction,en_5807
+C1511300,Breast Cancer Treatment,en_5809
+C1511790,Detection,en_5814
+C1511961,Dihydroorotate Dehydrogenase Inhibitor,en_5815
+C1512335,Harvest,en_5817
+C1512554,Hypermethylation,en_5821
+C1515089,Surgical Management,en_5845
+C1515119,Systemic Therapy,en_5846
+C1516019,Antiinflammatory Effect,en_5851
+C1516444,"Radiation, Charged Particles",en_5857
+C1516463,Chemopreventive Agent,en_5858
+C1516670,Clonal Expansion,en_5861
+C1517548,Glandular Cell,en_5868
+C1517925,Local Therapy,en_5870
+C1517942,Longterm Follow-up,en_5871
+C1518010,Low Dose Radiation,en_5872
+C1519279,Sexual transmission,en_5882
+C1519606,Transgenic Model,en_5888
+C1520005,Viral Pathogenesis,en_5895
+C1520007,Viral Vector,en_5896
+C1521910,Teens,en_5899
+C1522240,Process,en_5901
+C1522537,Recombinant Interferon,en_5903
+C1522577,follow-up,en_5904
+C1523351,tissue homeostasis,en_5911
+C1527365,"TIMP3 protein, human",en_5924
+C1532297,Emergency percutaneous coronary intervention,en_5931
+C1532338,Percutaneous coronary intervention,en_5932
+C1550600,ingredient,en_5956
+C1564892,Complement Inactivating Agents,en_5978
+C1568094,"5S,12R,18R-trihydroxy-6Z,8E,10E,14Z,16E-eicosapentaenoic acid",en_5987
+C1609165,tocilizumab,en_6003
+C1659427,nebulization-mediated drug administration,en_6019
+C1701400,cytoflavin,en_6024
+C1817978,acute inflammatory response,en_6041
+C1831903,Lyso-Thermosensitive Liposome Doxorubicin,en_6047
+C1861452,Storm Syndrome,en_6056
+C1881205,Informational Intervention,en_6062
+C1956108,Microbiome,en_6068
+C1976853,darunavir and ritonavir,en_6075
+C1977904,Nutritional risk index:Arbitrary Concentration:Point in time:^Patient:Quantitative,en_6076
+C2062441,Influenza A,en_6088
+C2216702,malignant neoplasm of breast staging,en_6091
+C2247681,erythrocyte homeostasis,en_6094
+C2344604,ciclesonide Metered Dose Inhaler,en_6096
+C2348001,Age Cohort,en_6097
+C2348984,Historical Cohort,en_6100
+C2349988,Myobacterium w (attenuated),en_6102
+C2827774,Current Therapy,en_6138
+C2917414,Recombinant Human Deoxyribonuclease 1 [EPC],en_6143
+C2931926,ruxolitinib,en_6148
+C2945704,Conventional Treatment,en_6157
+C2973564,danoprevir,en_6160
+C2985398,Intestinal Microbiome,en_6166
+C2985546,"Antibodies, Monoclonal, Humanized",en_6167
+C2985566,Targeted Therapy,en_6168
+C2986593,Tailored Intervention,en_6172
+C3152857,Prevail,en_6174
+C3159116,type 2 immune response,en_6176
+C3272275,Urgent Procedure,en_6188
+C3494174,Food Insecurity,en_6203
+C3658243,"Spike Glycoprotein, Coronavirus",en_6225
+C3819026,Interleukin-6 Receptor Antagonist [EPC],en_6245
+C3873497,Severe acute respiratory infection,en_6279
+C3885145,sarilumab,en_6280
+C3898714,Internet-Based Intervention,en_6287
+C4025286,Recurrent thromboembolism,en_6296
+C4039867,Acute hypoxemic respiratory failure,en_6301
+C4040576,Maintenance hemodialysis,en_6302
+C4077748,clazakizumab,en_6315
+C4304779,Kidney Transplant Recipient,en_6336
+C4330505,JAK1 Inhibitor,en_6346
+C4331301,Solid Organ Transplant Recipient,en_6348
+C4508633,ravidasvir,en_6355
+C4510396,Tocilizumab therapy,en_6356
+C4727713,Chemically-Induced Menopause,en_6389
+C4744673,Proactive Therapy,en_6397
+C4744839,Pharmacological Ascorbate,en_6399
+C4763383,Bemcentinib,en_6404
+C4763675,Single Agent Therapy,en_6405
+C5139788,abrocitinib,en_6408
+C5192099,Venovenous extracorporeal membrane oxygenation,en_6411
+C5387588,COVID-19 Vaccines,en_6436
+C5391442,"spike protein, SARS-CoV-2",en_6439
+C5397144,Acute respiratory distress syndrome due to disease caused by Severe acute respiratory syndrome coronavirus 2,en_6452
+C5416836,SARS-CoV-2 inactivated vaccines,en_6455
+C5416844,recombinant SARS-CoV-2 vaccine NVX-cov2373,en_6456
+C4077403,TMEM173,en_6488
+C0000737,Abdominal Pain,en_6493
+C0003595,Apolipoprotein E,en_6500
+C0030016,Oxidoreductase,en_6539
+C0033195,Pro-Opiomelanocortin,en_6550
+C0037125,Silver,en_6556
+C0041242,Trypsin Inhibitors,en_6559
+C0048808,doxifluridine,en_6561
+C0216115,secretoneurin,en_6596
+C0231217,Multiple symptoms,en_6602
+C0233756,Multiple somatic complaints,en_6607
+C0378781,"TAL1 protein, human",en_6632
+C0443764,Liver enzyme,en_6638
+C0677932,Progressive Neoplastic Disease,en_6664
+C1269560,Entire nervous system,en_6701
+C1290386,Chronic heart disease,en_6702
+C1335499,Progressive Disease,en_6711
+C1561987,Homeostatic mechanism,en_6743
+C1999216,Inhibitor,en_6749
+C3714584,"Transformation, function",en_6757
+C3816499,Pathogenic,en_6761
+C5397186,SARS-CoV-2 IgG,en_6771
